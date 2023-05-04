@@ -4,6 +4,7 @@ exports[`renders without crashing 1`] = `
 <div>
   <h1
     className="f2"
+    u={true}
   >
     RoboFriends
   </h1>
